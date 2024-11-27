@@ -4,7 +4,7 @@ import Group from "../../assets/Group.svg";
 const Header = () => {
   return (
     <div className="max-w-screen-xl mx-auto px-5">
-      <nav className="bg-white border-2 border-red-200 pt-3 mt-2 text-xl">
+      <nav className=" pt-3 mt-2 text-xl">
         <div className="flex flex-wrap items-center justify-between p-4">
           <a
             href="https://www.saviourhomecare.com/"
